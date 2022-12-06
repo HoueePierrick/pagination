@@ -12,7 +12,7 @@
     "@types/node": "^18.11.9"
   },
   "type": "module",
-  "include": ["old.ts"],
+  "include": ["index.ts"],
   "exclude": ["node_modules", "**/*.spec.ts"],
   "moduleResolution": "node",
   "module": "commonjs",
